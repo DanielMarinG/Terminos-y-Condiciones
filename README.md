@@ -21,3 +21,5 @@
 9. Limitación de Responsabilidad DaniBot no será responsable de ningún problema o mal funcionamiento que afecte al uso del bot, incluyendo interrupciones de red, fallos en Discord o cualquier problema técnico fuera del control del desarrollador.
 
 10. Contacto Para cualquier consulta o cuestión relacionada con estos Términos y Condiciones, puede ponerse en contacto con el desarrollador de DaniBot a través de los canales de soporte disponibles.
+
+<p align="center"> &copy; 2024 DMCreations <p/>
