@@ -1,4 +1,4 @@
-# Terminos-y-Condiciones
+# Términos y Condiciones
 
 ## Términos y Condiciones de Uso de DaniBot
 
