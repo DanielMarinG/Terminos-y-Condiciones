@@ -1,5 +1,5 @@
 # Términos y Condiciones
-
+### Actualización T&M 03/12/2024
 ## Términos y Condiciones de Uso de DaniBot
 
 ### 1. Aceptación de los Términos Al usar DaniBot,
