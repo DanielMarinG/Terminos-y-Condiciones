@@ -4,7 +4,7 @@
 
 ### 1. Aceptación de los Términos Al usar DaniBot,
 
-usted acepta cumplir con estos Términos y Condiciones. Si no está de acuerdo con alguno de estos términos, se le recomienda no utilizar el bot.
+Al usar DaniBot, usted acepta cumplir con estos Términos y Condiciones. Si no está de acuerdo con alguno de estos términos, se le recomienda no utilizar el bot.
 
 ### 2. Descripción del Servicio
 
@@ -12,7 +12,7 @@ DaniBot es un bot de Discord que ofrece una variedad de funcionalidades y comand
 
 ### 3. Privacidad y Almacenamiento de Datos
 
-DaniBot no almacena, guarda ni recopila ninguna información personal de los usuarios. Todos los comandos y funcionalidades son procesados en tiempo real sin retener datos de usuario en servidores externos. No se recopila ninguna información que permita la identificación personal.
+DaniBot no almacena, guarda ni recopila información personal de los usuarios de forma predeterminada. Todos los comandos y funcionalidades son procesados en tiempo real sin retener datos de usuario en servidores externos. Sin embargo, si el usuario lo solicita, DaniBot puede guardar el ID del canal para configuraciones específicas o funcionalidades personalizadas.
 
 ### 4. Exclusión de Responsabilidad
 
@@ -32,7 +32,7 @@ DaniBot es propiedad del desarrollador y está protegido por leyes de propiedad 
 
 ### 8. Modificación de los Términos y Suspensión del Servicio
 
-El desarrollador de DaniBot se reserva el derecho de modificar estos Términos y Condiciones en cualquier momento, notificando los cambios en el servidor donde se encuentre el bot. También se reserva el derecho de suspender o descontinuar el servicio de DaniBot en cualquier momento, sin previo aviso.
+El desarrollador de DaniBot se reserva el derecho de modificar estos Términos y Condiciones en cualquier momento, notificando los cambios en los servidores donde esté activo el bot. También se reserva el derecho de suspender o descontinuar el servicio de DaniBot en cualquier momento, sin previo aviso.
 
 ### 9. Limitación de Responsabilidad
 
